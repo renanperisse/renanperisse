@@ -1,9 +1,7 @@
 ### Olá! Eu sou o Renan Perissé
 
-- 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Java e Orientação a Objetos
 - 📫 Contate-me no email: rnperisse@gmail.com
-- 😄 Pronomes: ele/dele
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Renan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">

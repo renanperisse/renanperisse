@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Renan Perissé
 
-- 🌱 Estudando Java e Orientação a Objetos
+- 🌱 Conhecedor de Java, Orientação a Objetos e Spring Boot
 - 📫 Contate-me no email: rnperisse@gmail.com
   
   <div style="display: inline_block"><br>

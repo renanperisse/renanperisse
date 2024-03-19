@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Renan Perissé
 
-- 🌱 Estudo Java, Orientação a Objetos e Spring Boot
+- 🌱 Meu nome é Renan Perissé, tenho 23 anos e curso Análise e Desenvolvimento de Sistemas. Atualmente moro em São Paulo, mas sou nascido no Rio. Desenvolvo voltado ao back-end, onde me identifiquei desde o início com a linguagem Java. Atualmente, minhas principais tecnologias são Java, Spring Boot e SQL. Me considero um amante da tecnologia e tenho o objetivo de expandir meus conhecimentos cada vez mais. 
 - 📫 Contate-me no email: rnperisse@gmail.com
   
   <div style="display: inline_block"><br>

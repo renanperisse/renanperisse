@@ -1,10 +1,11 @@
 ### Olá! Eu sou o Renan Perissé
 
-- 🌱 Meu nome é Renan Perissé, tenho 23 anos e curso Análise e Desenvolvimento de Sistemas. Atualmente moro em São Paulo, mas sou nascido no Rio. Desenvolvo voltado ao back-end, onde me identifiquei desde o início com a linguagem Java. Atualmente, minhas principais tecnologias são Java, Spring Boot e SQL. Me considero um amante da tecnologia e tenho o objetivo de expandir meus conhecimentos cada vez mais. 
+- 🌱 Meu nome é Renan Perissé, tenho 23 anos e curso Análise e Desenvolvimento de Sistemas. Atualmente moro em São Paulo, mas sou nascido no Rio. Desenvolvo principalmente voltado ao full stack, onde me identifiquei desde o início com as linguagens Java e JavaScript. Atualmente, minhas principais tecnologias são Java, JavaScript, Spring Boot, SQL e HTML/CSS. Me considero um amante da tecnologia e tenho o objetivo de expandir meus conhecimentos cada vez mais. 
 - 📫 Contate-me no email: rnperisse@gmail.com
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Renan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Renan-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
   ##

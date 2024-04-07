@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Renan Perissé
 
-- 🌱 Meu nome é Renan Perissé, tenho 23 anos e curso Análise e Desenvolvimento de Sistemas. Atualmente moro em São Paulo, mas sou nascido no Rio. Desenvolvo principalmente voltado ao full stack, onde me identifiquei desde o início com as linguagens Java e JavaScript. Atualmente, minhas principais tecnologias são Java, JavaScript, Spring Boot, SQL e HTML/CSS. Me considero um amante da tecnologia e tenho o objetivo de expandir meus conhecimentos cada vez mais. 
+- 🌱 Meu nome é Renan Perissé, tenho 23 anos e curso Análise e Desenvolvimento de Sistemas. Atualmente moro em São Paulo, mas sou nascido no Rio. Desenvolvo aperfeiçoando o full stack, onde me identifiquei desde o início com as linguagens Java e JavaScript. Atualmente, minhas principais tecnologias são Java, JavaScript, Spring Boot, SQL e HTML/CSS. Me considero um amante da tecnologia e tenho o objetivo de expandir meus conhecimentos cada vez mais. 
 - 📫 Contate-me no email: rnperisse@gmail.com
   
   <div style="display: inline_block"><br>
